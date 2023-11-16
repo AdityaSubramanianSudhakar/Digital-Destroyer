@@ -1,0 +1,62 @@
+body{
+    background-image: url("BG1.avif");
+    background-size: cover;
+    background-position: center;
+}
+
+#name{
+    border-radius: 10px;
+    text-align: center;
+}
+#email{
+    border-radius: 10px;
+    text-align: center;
+}
+#Password{
+    border-radius: 10px;
+    text-align: center;
+}
+#Password1{
+    border-radius: 10px;
+    text-align: center;
+}
+#submit{
+    border-radius: 10px;
+    color:white;
+    padding: 10px;
+    width:25%;
+    border:none;
+    text-align: center;
+    margin-left: 59px;
+    background: rgb(199,37,108);
+    background: linear-gradient(201deg, rgba(199,37,108,1) 0%, rgba(165,42,142,1) 58%);
+
+}
+input{
+    border:none;
+    background-color: rgba(220, 215, 215, 0.826);
+    color:black;
+    font-weight: 700;
+}
+select{
+    background-color: rgba(220, 215, 215, 0.733);
+    color: black;
+    font-weight: 400;
+    
+}
+#navbar
+{
+    padding: 30px;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    color: aliceblue;
+}
+#container
+{
+    margin-left:35%;
+    margin-top: 8%;
+    background: rgba(0,0,0,0.7);
+    display: inline-block;
+    padding:70px;
+    
+}
